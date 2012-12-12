@@ -2,16 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="996638c4-e1fc-4561-9473-097bb9bb1604" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/balloons.png" afterPath="$PROJECT_DIR$/resources/images/balloons.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/blue-bow.png" afterPath="$PROJECT_DIR$/resources/images/blue-bow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/blue-flake.png" afterPath="$PROJECT_DIR$/resources/images/blue-flake.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/blue-gift.png" afterPath="$PROJECT_DIR$/resources/images/blue-gift.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/blue-ornament.png" afterPath="$PROJECT_DIR$/resources/images/blue-ornament.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/blue-star.png" afterPath="$PROJECT_DIR$/resources/images/blue-star.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cake.png" afterPath="$PROJECT_DIR$/resources/images/cake.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/candy-cane.png" afterPath="$PROJECT_DIR$/resources/images/candy-cane.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/candy-house.png" afterPath="$PROJECT_DIR$/resources/images/candy-house.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/christman-tree.png" afterPath="$PROJECT_DIR$/resources/images/christmas-tree.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/christmas-card.png" afterPath="$PROJECT_DIR$/resources/images/christmas-card.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/cookies.png" afterPath="$PROJECT_DIR$/resources/images/cookies.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/gift-tags.png" afterPath="$PROJECT_DIR$/resources/images/gift-tags.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/ginger-guy.png" afterPath="$PROJECT_DIR$/resources/images/ginger-guy.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/ginger-stocking.png" afterPath="$PROJECT_DIR$/resources/images/ginger-stocking.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/ginger-tree.png" afterPath="$PROJECT_DIR$/resources/images/ginger-tree.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/gold-bell.png" afterPath="$PROJECT_DIR$/resources/images/gold-bell.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/gold-flake.png" afterPath="$PROJECT_DIR$/resources/images/gold-flake.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/gold-gift.png" afterPath="$PROJECT_DIR$/resources/images/gold-gift.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/gold-star.png" afterPath="$PROJECT_DIR$/resources/images/gold-star.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/green-bow.png" afterPath="$PROJECT_DIR$/resources/images/green-bow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/green-gift.png" afterPath="$PROJECT_DIR$/resources/images/green-gift.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/green-ornament.png" afterPath="$PROJECT_DIR$/resources/images/green-ornament.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/heart.png" afterPath="$PROJECT_DIR$/resources/images/heart.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/holly.png" afterPath="$PROJECT_DIR$/resources/images/holly.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/icy-earth.png" afterPath="$PROJECT_DIR$/resources/images/icy-earth.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/igloo.png" afterPath="$PROJECT_DIR$/resources/images/igloo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/jingle-bell.png" afterPath="$PROJECT_DIR$/resources/images/jingle-bell.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/mistletoe.png" afterPath="$PROJECT_DIR$/resources/images/mistletoe.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pink-flake.png" afterPath="$PROJECT_DIR$/resources/images/pink-flake.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/pink-ornament.png" afterPath="$PROJECT_DIR$/resources/images/pink-ornament.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/polkadot-gift.png" afterPath="$PROJECT_DIR$/resources/images/polkadot-gift.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/red-bow.png" afterPath="$PROJECT_DIR$/resources/images/red-bow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/red-candles.png" afterPath="$PROJECT_DIR$/resources/images/red-candles.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/red-gift.png" afterPath="$PROJECT_DIR$/resources/images/red-gift.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/red-ornament.png" afterPath="$PROJECT_DIR$/resources/images/red-ornament.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/red-star.png" afterPath="$PROJECT_DIR$/resources/images/red-star.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/reindeer.png" afterPath="$PROJECT_DIR$/resources/images/reindeer.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/santa-hat.png" afterPath="$PROJECT_DIR$/resources/images/santa-hat.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/santa-letter.png" afterPath="$PROJECT_DIR$/resources/images/santa-letter.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/santas-sack.png" afterPath="$PROJECT_DIR$/resources/images/santa-sack.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/sleigh.png" afterPath="$PROJECT_DIR$/resources/images/sleigh.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/snow-globe.png" afterPath="$PROJECT_DIR$/resources/images/snow-globe.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/snowballz.png" afterPath="$PROJECT_DIR$/resources/images/snowballz.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/snowman.png" afterPath="$PROJECT_DIR$/resources/images/snowman.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/snowy-house.png" afterPath="$PROJECT_DIR$/resources/images/snowy-house.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/stocking.png" afterPath="$PROJECT_DIR$/resources/images/stocking.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/teddy-gift.png" afterPath="$PROJECT_DIR$/resources/images/teddy-gift.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/treasure-chest.png" afterPath="$PROJECT_DIR$/resources/images/treasure-chest.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/wreath.png" afterPath="$PROJECT_DIR$/resources/images/wreath.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/xmas/questions.clj" afterPath="$PROJECT_DIR$/src/xmas/questions.clj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/xmas/questions_spec.clj" afterPath="$PROJECT_DIR$/spec/xmas/questions_spec.clj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="xmas2012.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/project.clj" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355279867809" ignored="false" />
-    <file path="/questions_spec.clj" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355280620671" ignored="false" />
+    <file path="/questions_spec.clj" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355334063999" ignored="false" />
     <file path="/fragment.java" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355284425899" ignored="false" />
-    <file path="$USER_HOME$/Library/Preferences/IntelliJIdea12/options/feature.usage.statistics.xml" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355288622140" ignored="false" />
+    <file path="$USER_HOME$/Library/Preferences/IntelliJIdea12/options/feature.usage.statistics.xml" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355333827125" ignored="false" />
     <file path="/Dummy.txt" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355280528739" ignored="false" />
-    <file path="/questions.clj" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355289153742" ignored="false" />
+    <file path="/questions.clj" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355336783317" ignored="false" />
     <file path="/core_spec.clj" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355284184885" ignored="false" />
     <file path="/README.md" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355282082586" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -85,7 +137,16 @@
       <file leaf-file-name="questions.clj" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/xmas/questions.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="65" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.640648">
+            <state line="38" column="211" selection-start="4049" selection-end="4049" vertical-scroll-proportion="0.6202394">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="questions_spec.clj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/xmas/questions_spec.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="0" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -107,15 +168,6 @@
         <entry file="file://$PROJECT_DIR$/spec/xmas/core_spec.clj">
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="questions_spec.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/xmas/questions_spec.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -164,8 +216,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1920" />
-    <option name="height" value="1174" />
+    <option name="width" value="2560" />
+    <option name="height" value="1414" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -249,6 +301,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xmas2012" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xmas2012" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -259,8 +325,8 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
@@ -270,6 +336,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/xmas2012" />
       <recent name="$PROJECT_DIR$/spec/xmas2012" />
@@ -370,8 +437,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1174" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="22" width="2560" height="1414" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -387,8 +454,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24546425" sideWeight="0.95170456" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18569905" sideWeight="0.670778" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32922202" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13842481" sideWeight="0.73183924" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26816073" sideWeight="0.97016704" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -489,14 +556,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/xmas/questions_spec.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
+        <state line="22" column="0" selection-start="650" selection-end="650" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/xmas/questions.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="65" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.640648">
+        <state line="38" column="211" selection-start="4049" selection-end="4049" vertical-scroll-proportion="0.6202394">
           <folding />
         </state>
       </provider>
@@ -558,7 +625,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.10130719" />
               </list>
             </option>
           </splitter-proportions>
