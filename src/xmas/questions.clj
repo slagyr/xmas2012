@@ -18,7 +18,7 @@
    {:a "Jim Suchy" :q "8th Light Employee #1"}
    {:a "Doug Bradbury" :q "This craftman dug through other people's crap to produce a gem that thousands of craftsman can attest to."}
    {:a "Colin Jones" :q "Undoubtedl-y, this craftman-y can ver-y cleverl-y name things-y."}
-   {:a "Margaret Pagel" :q "This craftsman was in the dental industry prior to learning about software."}
+   {:a "Margaret Pagel" :q "This craftsman was in the dental industry prior to joining 8th Light."}
    {:a "Susan Rosso" :q ""}
    {:a "Dave Moore" :q "I go to war almost every other weekend. No one dies and if I'm lucky, I get paid.  Who am I?"}
    {:a "Michael Baker" :q ""}
@@ -35,13 +35,10 @@
    {:a "Brian Pratt" :q ""}
    {:a "Cymen Vig" :q ""}
    {:a "Ben Voss" :q ""}
-   {:a "Eric Koslow" :q ""}
+   {:a "Eric Koslow" :q "Had this craftsman from the big apple chosen the wrong school, he'd be speaking Japaneese instead of writting code."}
    {:a "Nick Meccia" :q "Which craftsman has produced their very own music comic book?"}
   ])
 
-;cory@8thlight.com	Cory	Foy	@cory_foy
-;unclebob@8thlight.com	Robert	Martin	@unclebobmartin
-;esmith@8thlight.com	Eric	Smith	@paytonrules
 
 
 

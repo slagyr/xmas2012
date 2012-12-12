@@ -3,17 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="996638c4-e1fc-4561-9473-097bb9bb1604" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/xmas/questions.clj" afterPath="$PROJECT_DIR$/src/xmas/questions.clj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/xmas/questions_spec.clj" afterPath="$PROJECT_DIR$/spec/xmas/questions_spec.clj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="xmas2012.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/project.clj" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355279867809" ignored="false" />
     <file path="/questions_spec.clj" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355280620671" ignored="false" />
     <file path="/fragment.java" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355284425899" ignored="false" />
-    <file path="$USER_HOME$/Library/Preferences/IntelliJIdea12/options/feature.usage.statistics.xml" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355285650889" ignored="false" />
+    <file path="$USER_HOME$/Library/Preferences/IntelliJIdea12/options/feature.usage.statistics.xml" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355288622140" ignored="false" />
     <file path="/Dummy.txt" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355280528739" ignored="false" />
-    <file path="/questions.clj" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355288164924" ignored="false" />
+    <file path="/questions.clj" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355289153742" ignored="false" />
     <file path="/core_spec.clj" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355284184885" ignored="false" />
     <file path="/README.md" changelist="996638c4-e1fc-4561-9473-097bb9bb1604" time="1355282082586" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -87,7 +85,7 @@
       <file leaf-file-name="questions.clj" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/xmas/questions.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="7" selection-start="1863" selection-end="1863" vertical-scroll-proportion="0.3976436">
+            <state line="29" column="65" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.640648">
               <folding />
             </state>
           </provider>
@@ -272,6 +270,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/xmas2012" />
       <recent name="$PROJECT_DIR$/spec/xmas2012" />
     </key>
@@ -372,7 +371,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1174" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -388,7 +387,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24546425" sideWeight="0.95170456" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18569905" sideWeight="0.670778" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18569905" sideWeight="0.670778" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32922202" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -497,7 +496,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/xmas/questions.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="7" selection-start="1863" selection-end="1863" vertical-scroll-proportion="0.3976436">
+        <state line="29" column="65" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.640648">
           <folding />
         </state>
       </provider>
