@@ -1,4 +1,4 @@
-(defproject xmas2012 "1.0"
+(defproject xmas "1.0"
   :description "8th Lights 2012 Christmas Party game"
   :dependencies [[org.clojure/clojure "1.4.0"]
                  [speclj "2.4.0"]]
