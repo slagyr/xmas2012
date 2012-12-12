@@ -5,43 +5,40 @@
    {:a "dunno" :q "What is Myles' middle name?"}
    {:a "cards" :q "8th Light's very first project involved a pink box.  What was kept in that box?"}
    {:a "ruby & applescript" :q "What programming language controls the wall-mounted TV's web page cycle?"}
-   {:a "Paul Pagel" :q "Which craftsman rides a Triumph?"}
    {:a "zero" :q "How many Rails apps had Micah and Paul written when 8th Light signed their first paying Rails gig?"}
-   {:a "Wai Lee" :q "Which craftsman most resembles Beatles rock star, George Harrison?"}
-   {:a "Josh Cheek" :q "If you needed a knitted snifter warmer, which craftsman would you ask to make it?"}
+   {:a "PCReservation" :q "What 8th Light developed software runs in the Chicago Public Library?"}
+   {:a "Angelique Martin" :q "I was born on a Carribean Island and can understand Creole. Who am I?"}
+   {:a "Craig Demyanovich" :q "This craftsman dreams of sticks, disks, and lots-o mighty cold H2O"}
    {:a "Eric Meyer" :q "I have a master on each shoulder.  One light.  One dark.  Who am I?"}
-   {:a :q}
+   {:a "Josh Cheek" :q "If you needed a knitted snifter warmer, which craftsman should you seek?"}
+   {:a "Paul Pagel" :q "Which craftsman rides a Triumph?"}
+   {:a "Wai Lee" :q "Which craftsman most resembles Beatles rock star, George Harrison?"}
+   {:a "Skim" :q "Which craftsman owns a bright yellow drifer car in another state?"}
+   {:a "Sue Kim" :q "Which craftsman lives with a retired proffessional track runner?"}
+   {:a "Jim Suchy" :q "8th Light Employee #1"}
+   {:a "Doug Bradbury" :q "This craftman dug through other people's crap to produce a gem that thousands of craftsman can attest to."}
+   {:a "Colin Jones" :q "Undoubtedl-y, this craftman-y can ver-y cleverl-y name things-y."}
+   {:a "Margaret Pagel" :q "This craftsman was in the dental industry prior to learning about software."}
+   {:a "Susan Rosso" :q ""}
+   {:a "Dave Moore" :q "I go to war almost every other weekend. No one dies and if I'm lucky, I get paid.  Who am I?"}
+   {:a "Michael Baker" :q ""}
+   {:a "Stephanie Briones" :q ""}
+   {:a "Patrick Gombert" :q ""}
+   {:a "Mark Grant" :q ""}
+   {:a "Ginny Hendry" :q ""}
+   {:a "Mike Jansen" :q ""}
+   {:a "Keven Liddle" :q ""}
+   {:a "Li-Hsuan Lung" :q ""}
+   {:a "Jeremy Neander" :q ""}
+   {:a "Dariuz Pasciak" :q ""}
+   {:a "Chris Peak" :q ""}
+   {:a "Brian Pratt" :q ""}
+   {:a "Cymen Vig" :q ""}
+   {:a "Ben Voss" :q ""}
+   {:a "Eric Koslow" :q ""}
+   {:a "Nick Meccia" :q "Which craftsman has produced their very own music comic book?"}
   ])
 
-;michael@8thlight.com	Michael	Baker	@Twernmilt
-;dbradbury@8thlight.com	Doug	Bradbury	@dougbradbury
-;stephanie@8thlight.com	Stephanie	Briones	@smbriones
-;craig@8thlight.com	Craig	Demyanovich	@demmer12
-;patrick@8thlight.com	Patrick	Gombert	@PatrickGombert
-;mark@8thlight.com	Mark	Grant	@scratchwork
-;ginny@8thlight.com	Ginny	Hendry	@ginnyhendry
-;jherrick@8thlight.com	Justin	Herrick	@JAH2488
-;mike@8thlight.com	Mike	Jansen	@mjansen401
-;colin@8thlight.com	Colin	Jones	@trptcolin
-;skim@8thlight.com	s	kim	@skim
-;sue@8thlight.com	Sue	Kim	@suesunmi
-;ekoslow@8thlight.com	Eric	Koslow	@ekosz1
-;kevin@8thlight.com	Kevin	Liddle	@sprinklez
-;lihsuan@8thlight.com	Li-Hsuan	Lung	@Li_Hsuan
-;angelique@8thlight.com	Angelique	Martin	@angethouvenin
-;micah@8thlight.com	Micah	Martin	@slagyr
-;nmeccia@8thlight.com	Nick	Meccia	Nick Meccia
-;dave@8thlight.com	Dave	Moore	@cuvuligio
-;jeremy@8thlight.com	Jeremy	Neander	@jeremyneander
-;margaret@8thlight.com	Margaret	Pagel	@MargaretPagel
-;dariusz@8thlight.com	Dariusz	Pasciak	Dariusz Pasciak
-;cpeak@8thlight.com	Chris	Peak	@c_peak
-;brian@8thlight.com	Brian	Pratt	@pratt_b
-;susan@8thlight.com	Susan	Rosso	@SusanRosso2
-;jsuchy@8thlight.com	Jim	Suchy	@jsuchy
-;cymen@8thlight.com	Cymen	Vig	@cymen
-;ben@8thlight.com	Ben	Voss	@benvoss
-;
 ;cory@8thlight.com	Cory	Foy	@cory_foy
 ;unclebob@8thlight.com	Robert	Martin	@unclebobmartin
 ;esmith@8thlight.com	Eric	Smith	@paytonrules
