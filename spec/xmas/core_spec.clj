@@ -2,7 +2,7 @@
   (:require [speclj.core :refer :all]
             [clojure.java.io :refer [file]]
             [xmas.core :refer :all]
-            [xmas.questions :refer :all]))
+            [xmas.questions :refer :all :exclude [-main]]))
 
 (describe "xmas Core"
 
@@ -23,10 +23,10 @@
       (should= 100 (count (set (map #(set (:bingo %)) sheets))))))
 
 
-  (it "renders a game sheet"
-    (render-game-sheet
-      (create-game-sheet :igloo))
-    (.open (java.awt.Desktop/getDesktop) (file "output/igloo.html")))
+;  (it "renders a game sheet"
+;    (render-game-sheet
+;      (create-game-sheet :igloo))
+;    (.open (java.awt.Desktop/getDesktop) (file "output/igloo.html")))
 
 
   )

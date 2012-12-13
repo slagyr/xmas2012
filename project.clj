@@ -6,4 +6,5 @@
                  [chee "1.1.0"]]
   :profiles {:dev {:dependencies [[speclj "2.4.0"]]}}
   :plugins [[speclj "2.4.0"]]
-  :test-paths ["spec"])
+  :test-paths ["spec"]
+  :main xmas.core)

@@ -1,5 +1,5 @@
 (ns xmas.core
-  (:require [xmas.questions :refer :all ]
+  (:require [xmas.questions :refer :all :exclude [-main]]
             [hiccup.core :refer [html]]
             [hiccup.page :refer [html5 include-css]]
             [hiccup.element :refer [image]]
@@ -35,6 +35,11 @@
   (let [html (generate-html sheet)
         outfile (file "output" (str (name (:icon sheet)) ".html"))]
     (spit outfile html)))
+
+(defn -main []
+  (doseq [icon (all-icons)]
+    (render-game-sheet
+      (create-game-sheet icon))))
 
 
 

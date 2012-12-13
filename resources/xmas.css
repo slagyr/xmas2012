@@ -83,5 +83,44 @@ div.cell p {
 }
 
 div.cell img {
-    height: 50px;
+    height: 60px;
 }
+
+div.answer {
+    border-top: 1px solid #888888;
+    width: 325px;
+    height: 34px;
+    display: inline-block;
+    text-align: left;
+    margin-right: 10px;
+    vertical-align: top;
+    overflow: hidden;
+}
+
+div.answer img {
+    height: 30px;
+    margin-top: 2px;
+    display: inline-block;
+}
+
+div.answer p {
+    margin: 0;
+    display: inline-block;
+    width: 270px;
+    vertical-align: top;
+    color: #2CAADC;
+    margin-left: 20px;
+    font-size: 0.8em;
+}
+
+div.answer p em {
+    display: block;
+    font-style: normal;
+    font-weight: bold;
+    /*font-size: 0.8em;*/
+    color: #444;
+    margin-left: -10px;
+    margin-bottom: 1px;
+}
+
+

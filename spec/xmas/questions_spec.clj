@@ -1,6 +1,6 @@
 (ns xmas.questions-spec
   (:require [speclj.core :refer :all ]
-            [clojure.java.io :refer [resource]]
+            [clojure.java.io :refer [resource file]]
             [xmas.questions :refer :all ]))
 
 (describe "Questions"
@@ -38,6 +38,10 @@
   (it "can get all icons"
     (should= 50 (count (all-icons)))
     (should= #{clojure.lang.Keyword} (set (map class (all-icons)))))
+
+  (it "generates answers"
+    (render-answers)
+    (.open (java.awt.Desktop/getDesktop) (file "output/answers.html")))
 
   )
 
