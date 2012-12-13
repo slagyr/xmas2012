@@ -47,7 +47,7 @@
    {:icon :polkadot-gift :a "Cymen Vig" :q "This craftsman is, perhaps was, a cow milker and rusty pick-up truck owner."}
    {:icon :holly :a "Mike Jansen" :q "You'd be calling this craftsman Spike or Butch if their old-man had their way."}
    {:icon :gold-star :a "Michael Baker" :q "This craftsman was the proud owner of a sugar glider (WTF?) and nearly became a humanities teacher."}
-   {:icon :igloo :a "Li-Hsuan Lung" :q "This craftmsn has family ties with the mafia and an army general.  That translates to power!"}
+   {:icon :igloo :a "Li-Hsuan Lung" :q "This craftsman has family ties with the mafia and an army general.  That translates to power!"}
    {:icon :heart :a "Ginny Hendry" :q "This self-qualifiying 'tall' craftsman hates the color pink."}
    {:icon :green-bow :a "Stephanie Briones" :q "This nomadic craftsman has lived in 5 states and would be playing the drums today if not for the close proximity of Chicago neighbors."}
    {:icon :jingle-bell :a "Jeremy Neander" :q "This craftsman has a soft spot for meandering blank-and-white animals."}

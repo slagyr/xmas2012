@@ -1,5 +1,6 @@
 (ns xmas.core-spec
   (:require [speclj.core :refer :all]
+            [clojure.java.io :refer [file]]
             [xmas.core :refer :all]
             [xmas.questions :refer :all]))
 
@@ -24,8 +25,11 @@
 
   (it "renders a game sheet"
     (render-game-sheet
-      (create-game-sheet :igloo)))
+      (create-game-sheet :igloo))
+    (.open (java.awt.Desktop/getDesktop) (file "output/igloo.html")))
+
 
   )
+
 
 

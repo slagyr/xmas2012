@@ -1,0 +1,87 @@
+body {
+    /*text-align: center;*/
+    padding: 5px;
+    font-family: "Helvetica Neue" sans-serif;
+    color: #444
+}
+
+#main {
+    width: 700px;
+    height: 890px;
+    padding: 10px;
+    border: 1px solid #888888;
+    vertical-align: top;
+    text-align: center;
+}
+
+img.el {
+    height: 150px;
+    margin: 10px 10px 10px 20px;
+    position: absolute;
+    display: block;
+    clear: both;
+}
+
+img.bingo {
+    margin-bottom: 10px;
+    /*margin-left: 30px;*/
+    width: 200px;
+}
+
+#details {
+    text-align: center;;
+}
+
+h1 {
+    font-size: 1.8em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+span.blue {
+    color: #2CAADC;
+    /*font-style: italic;*/
+    font-size: 1.5em;
+}
+
+img.icon {
+    height: 100px;
+}
+
+div.clue {
+    border: 1px solid #2CAADC;
+    padding: 10px;
+    margin: 0 10px 0 10px;
+}
+
+span.clue {
+    font-size: 1.2em;
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+div#bingo {
+    width: 680px;
+    border-top: 1px solid #888888;
+    border-left: 1px solid #888888;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+div.cell {
+    border-right: 1px solid #888888;
+    border-bottom: 1px solid #888888;
+    width: 135px;
+    height: 109px;
+    text-align: center;
+    display: inline-block;
+}
+
+div.cell p {
+    font-size: 0.7em;
+    font-weight: bold;
+}
+
+div.cell img {
+    height: 50px;
+}
