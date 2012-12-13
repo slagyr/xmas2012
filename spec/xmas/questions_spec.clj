@@ -32,5 +32,12 @@
   (it "each answer is unique"
     (should= 50 (count (into #{} (map :a questions)))))
 
+  (it "knows the clue given an icon"
+    (should= "What color is the 8th Light?" (clue-for :teddy-gift)))
+
+  (it "can get all icons"
+    (should= 50 (count (all-icons)))
+    (should= #{clojure.lang.Keyword} (set (map class (all-icons)))))
+
   )
 

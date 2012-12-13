@@ -2,11 +2,29 @@
 
 (def questions
   [
-   {:icon :balloons :a "dunno" :q "What is Myles' middle name?"}
    {:icon :blue-bow :a "cards" :q "8th Light's very first project involved a pink box.  What was kept in that box?"}
    {:icon :blue-flake :a "ruby & applescript" :q "What programming language controls the wall-mounted TV's web page cycle?"}
    {:icon :blue-gift :a "zero" :q "How many Rails apps had Micah and Paul written when 8th Light signed their first paying Rails gig?"}
    {:icon :blue-ornament :a "PCReservation" :q "What 8th Light developed software runs in the Chicago Public Library?"}
+   {:icon :red-ornament :a "0-8" :q "What is the record of 8th Light's basketball team?"}
+   {:icon :red-star :a "Take a picture and email it to Stefan" :q "What did the silver button the iMac do?"}
+   {:icon :reindeer :a "Closet at Object Mentor" :q "Where was 8th Light first office?"}
+   {:icon :santa-hat :a "C++" :q "Ruby was the first language in which 8th Light was paid to develop.  What was the second?"}
+   {:icon :santa-letter :a "Jake Scruggs" :q "What was the name of the Obtivian who visited 8th Light in the innagural Craftsman Swap?"}
+   {:icon :santa-sack :a "PDF" :q "'Eric the Great and Powerful' originally appeared in what type of file?"}
+   {:icon :sleigh :a "Zebra" :q "What company supplied the labels that were used to create the printer label ball that can be found in the office?"}
+   {:icon :snow-globe :a "LandsEnd" :q "Several 8th Light craftsmen modeled clothing for what brand name appearal?"}
+   {:icon :snowballz :a "45" :q "How many people are on 8th Light's payroll?"}
+   {:icon :snowman :a "54" :q "How many 8thlight.com email address boxes does 8th Light host?"}
+   {:icon :snowy-house :a "37-38" :q "Including finance, sales, admin, but not apprentices, how many 8th Light Craftsmen are there?"}
+   {:icon :stocking :a "FrescoPlusNormal" :q "What is the name of the primary font used on 8thlight.com?"}
+   {:icon :teddy-gift :a "Infrared" :q "What color is the 8th Light?"}
+   {:icon :treasure-chest :a "A well-crafted spirit for a well-spirited craftsman." :q "What is the motto behind 8th Light's birthday scotch tradition?"}
+   {:icon :wreath :a "Techline" :q "From what company does the majority of 8th Light's furnature come?"}
+   {:icon :green-ornament :a "$10-$12" :q "How much does 1 quality juggling ball cost?"}
+   {:icon :pink-flake :a "1 min" :q "Roughly, what is the 8th Light record time for solving the Rubik's Cube (3x3x3)?"}
+
+   {:icon :balloons :a "<secret>" :q "What is Myles' middle name?"}
    {:icon :blue-star :a "Angelique Martin" :q "I was born on a Carribean Island and can understand Creole. Who am I?"}
    {:icon :cake :a "Craig Demyanovich" :q "This craftsman dreams of sticks, disks, and lots-o mighty cold H2O"}
    {:icon :candy-cane :a "Eric Meyer" :q "I have a master on each shoulder.  One light.  One dark.  Who am I?"}
@@ -34,25 +52,15 @@
    {:icon :green-bow :a "Stephanie Briones" :q "This nomadic craftsman has lived in 5 states and would be playing the drums today if not for the close proximity of Chicago neighbors."}
    {:icon :jingle-bell :a "Jeremy Neander" :q "This craftsman has a soft spot for meandering blank-and-white animals."}
    {:icon :mistletoe :a "Dariuz Pasciak" :q "This craftsman eats chicken soup 6 times a week.  How Daring!"}
-   {:icon :green-ornament :a "Mark Grant" :q ""}
-   {:icon :pink-flake :a "Chris Peak" :q ""}
-   {:icon :red-bow :a "Ben Voss" :q ""}
-   {:icon :red-ornament}
-   {:icon :red-star}
-   {:icon :reindeer}
-   {:icon :santa-hat}
-   {:icon :santa-letter}
-   {:icon :santa-sack}
-   {:icon :sleigh}
-   {:icon :snow-globe}
-   {:icon :snowballz}
-   {:icon :snowman}
-   {:icon :snowy-house}
-   {:icon :stocking}
-   {:icon :teddy-gift}
-   {:icon :treasure-chest}
-   {:icon :wreath}
+   {:icon :red-bow :a "Ben Voss" :q "A true boy scout, eagle in fact, this craftsman is the boss of long walks."}
   ])
+
+(defn clue-for [icon]
+  (when-let [entry (first (filter #(= icon (:icon %)) questions))]
+    (:q entry)))
+
+(defn all-icons []
+  (map :icon questions))
 
 
 
